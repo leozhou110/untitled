@@ -4,4 +4,4 @@ print(time.localtime())
 print(time.daylight)
 c =time.clock()
 print(c)
-
+aaaaaaaaaaaaaaaa
